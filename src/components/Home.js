@@ -1,14 +1,10 @@
-import { ethers } from 'ethers';
-import { useEffect, useState } from 'react';
+import { ethers } from "ethers"
+import { useEffect, useState } from "react"
 
-import close from '../assets/close.svg';
+import close from "../assets/close.svg"
 
 const Home = ({ home, provider, escrow, togglePop }) => {
-
-    return (
-        <div className="home">
-        </div>
-    );
+  return <div className="home"></div>
 }
 
-export default Home;
+export default Home

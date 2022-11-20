@@ -1,7 +1,5 @@
-import logo from '../assets/logo.svg';
+import logo from "../assets/logo.svg"
 
-const Navigation = ({ account, setAccount }) => {
+const Navigation = ({ account, setAccount }) => {}
 
-}
-
-export default Navigation;
+export default Navigation
